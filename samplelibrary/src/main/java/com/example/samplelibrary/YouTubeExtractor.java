@@ -825,6 +825,11 @@ public abstract class YouTubeExtractor extends AsyncTask<String, Void, SparseArr
                                     }
                                 }
 
+                                @Override
+                                public void onError(String s) {
+
+                                }
+
                             });
                 }
             });
