@@ -409,8 +409,7 @@ public abstract class YouTubeExtractor extends AsyncTask<String, Void, SparseArr
                 }
             }
             Log.e("encSignatures ",encSignatures.toString());
-           // && encSignatures.size()>0
-            if (encSignatures != null ) {
+            if (encSignatures != null && encSignatures.size()>0) {
                 if (LOGGING)
                     Log.d(LOG_TAG, "Decipher signatures");
                 String signature;
