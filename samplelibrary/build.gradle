@@ -19,7 +19,7 @@ dependencies {
         exclude module: 'appcompat-v7'
     }
 
-
+// My test
 }
 
 task deleteJar(type: Delete) {
