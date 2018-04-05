@@ -1,4 +1,4 @@
-package com.example.samplelibrary;
+package com.dhruvtec.youtubeextractor;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.samplelibrary.test", appContext.getPackageName());
+        assertEquals("com.dhruvtec.youtubeextractor.test", appContext.getPackageName());
     }
 }

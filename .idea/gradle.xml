@@ -9,7 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/samplelibrary" />
+            <option value="$PROJECT_DIR$/youtubeextractor" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

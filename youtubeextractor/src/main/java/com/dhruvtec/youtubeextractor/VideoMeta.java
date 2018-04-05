@@ -1,4 +1,4 @@
-package com.example.samplelibrary;
+package com.dhruvtec.youtubeextractor;
 
 public class VideoMeta {
 
